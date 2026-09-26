@@ -90,8 +90,7 @@ The embedded QR encoding algorithm is based on the MIT-licensed [`qrcode-generat
 
 **QR Studio** was designed and developed as a simple, private alternative to ad-heavy QR generators on the web.
 
-- **Designer & Developer:** *[Your Name Here]*
-- **Contact:** *[your@email.com]*
-- **Repository:** https://github.com/your-username/qr-weblink-generator
-
+- **Designer & Developer:** *[Kim Ruzzel L. Enteria]*
+- **Contact:** *[[kimenteria92@gm](https://www.facebook.com/kritikomentaryo92)]*
+- **Repository:** https://github.com/KuaMikenteria/qr-weblink-generator
 > Built for the open web. 🌐
