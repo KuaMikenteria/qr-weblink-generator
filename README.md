@@ -1,3 +1,5 @@
+<div>
+  
 # QR Studio
 
 A free, privacy-first QR code generator that runs entirely in your browser. Paste a link, get a scannable QR code instantly — no sign-up, no uploads, no tracking.
@@ -38,10 +40,11 @@ The app takes a link as input, validates and normalizes it (auto-prepending `htt
 
 ### Run Locally
 
-=> bash
-=> git clone https://github.com/your-username/qr-weblink-generator.git
-=> cd qr-weblink-generator
-= >open index.html   # or just double-click the file
+=> bash <br />
+=> git clone https://github.com/your-username/qr-weblink-generator.git <br />
+=> cd qr-weblink-generator <br />
+= >open index.html   <br />
+# or just double-click the file
 
 ## How It Works
 
@@ -91,6 +94,8 @@ The embedded QR encoding algorithm is based on the MIT-licensed [`qrcode-generat
 **QR Studio** was designed and developed as a simple, private alternative to ad-heavy QR generators on the web.
 
 - **Designer & Developer:** *[Kim Ruzzel L. Enteria]*
-- **Contact:** *[[kimenteria92@gm](https://www.facebook.com/kritikomentaryo92)]*
+- **Contact:** *[[Kim Ruzzel L. Enteria](https://www.facebook.com/kritikomentaryo92)]*
 - **Repository:** https://github.com/KuaMikenteria/qr-weblink-generator
 > Built for the open web. 🌐
+
+</div>
